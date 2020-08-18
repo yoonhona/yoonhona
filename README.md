@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### Frontedend Developer
 #### React.js, ES5+, Typescript
 
